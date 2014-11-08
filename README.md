@@ -1,4 +1,4 @@
 New-repo
 ========
 
-To explore github
+Test githib and git bash for tutorial by MicrowaveSam
